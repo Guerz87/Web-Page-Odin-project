@@ -1,0 +1,12 @@
+h2,
+p {
+   font-size: 35px; 
+}
+.list-of-ingredients {
+   color: blue;
+   font-size: 30px;
+   font-family: "Montserrat", sans-serif;
+}
+.cookie {
+   width: 100 px;
+}
